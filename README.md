@@ -24,4 +24,4 @@ The page is responsive for both phones and laptops. @media query is used to make
 brief info about the NGO with some links on Facebook, YouTube, twitter and ticktock channels 
 
 
-**Visit the page:** http://127.0.0.1:5500/Index.html
+**Visit the page:** https://mir-1987.github.io/MIR-HTML-CSS-First-Project-Nov-2023/
