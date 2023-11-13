@@ -795,6 +795,7 @@ footer a:hover {
     }
 
 
+
     /* footer */
 
     footer {
@@ -802,3 +803,30 @@ footer a:hover {
         grid-template: 1fr / repeat(2, 1fr);
     }
 }
+
+
+@media (min-width: 500px) {
+    .vacancy-img {
+        height: 20rem;
+        width: 20rem;
+        
+    }
+    
+    body {
+        transform: scale(0.5);
+    }
+
+}
+
+
+@media (min-width: 1500px) {
+    .vacancy-img {
+        height: 35rem;
+        width: 40rem;
+        
+    }
+
+   
+}
+
+
